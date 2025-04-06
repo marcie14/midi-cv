@@ -7,3 +7,6 @@ mido
 python-rtmidi
 numpy
 pydub
+pyaudio
+protobuf==3.20.1
+moviepy

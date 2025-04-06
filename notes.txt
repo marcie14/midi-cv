@@ -1,3 +1,5 @@
 TODO:
-- somehow make midi output part???
-- gesture recognition is good to go
+- record effects to audio AND video output
+- allow to upload a backing track through UI
+- allow live play back of effects? laggy?
+- more refined debounce mechanism for removing last effect
