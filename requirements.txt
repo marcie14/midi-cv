@@ -1,0 +1,9 @@
+opencv-python
+opencv-python-headless
+opencv-contrib-python
+sounddevice
+mediapipe
+mido
+python-rtmidi
+numpy
+pydub

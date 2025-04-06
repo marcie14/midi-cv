@@ -1,0 +1,3 @@
+TODO:
+- somehow make midi output part???
+- gesture recognition is good to go
